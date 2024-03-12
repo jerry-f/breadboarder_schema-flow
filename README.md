@@ -1,27 +1,42 @@
-# Breadboarder
+# 面包机
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+使用 DSL 表达界面原型和页面流
 
-## Development server
+![image-20240312162205551](./image-20240312162205551.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+本项目使用 Angular CLI 12.2.7 版本生成。
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##  开发服务器
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+为开发服务器运行 `ng serve` 。导航至 `http://localhost:4200/` 。如果更改任何源文件，应用程序将自动重新加载。
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+##  代码脚手架
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+运行 `ng generate component component-name` 生成一个新组件。也可以使用 `ng generate directive|pipe|service|class|guard|interface|enum|module` 。
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##  建设
+
+
+
+运行 `ng build` 来构建项目。构建工件将存储在 `dist/` 目录中。
+
+##  运行单元测试
+
+
+
+运行 `ng test` 通过 Karma 执行单元测试。
+
+##  运行端到端测试
+
+
+
+运行 `ng e2e` 可通过您选择的平台执行端到端测试。要使用此命令，首先需要添加一个实现端到端测试功能的软件包。
+
+##  更多帮助
+
+要获得有关 Angular CLI 的更多帮助，请使用 `ng help` 或查看 Angular CLI 概述和命令参考页面。
